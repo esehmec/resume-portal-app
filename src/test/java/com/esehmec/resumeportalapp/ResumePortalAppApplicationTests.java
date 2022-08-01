@@ -1,0 +1,13 @@
+package com.esehmec.resumeportalapp;
+
+import org.junit.jupiter.api.Test;
+import org.springframework.boot.test.context.SpringBootTest;
+
+@SpringBootTest
+class ResumePortalAppApplicationTests {
+
+    @Test
+    void contextLoads() {
+    }
+
+}
